@@ -12,4 +12,4 @@
 */
 
 Route::get('/', 'HomeController@showWelcome');
-Route::get('/admin/soundcloud/playlists', 'AdminController@showSoundcloudPlaylists');
+// Route::get('/admin/soundcloud/playlists', 'AdminController@showSoundcloudPlaylists');
